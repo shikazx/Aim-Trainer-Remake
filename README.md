@@ -26,4 +26,4 @@ I used pygame to create the whole thing, and MSPaint/Pixlr for the assets.
 
 
 # OPTIONS SCREEN
-![OPTIONS](https://i.imgur.com/nGIMa0b.png)
+![OPTIONS](https://i.imgur.com/V0B3Uv1.png)
