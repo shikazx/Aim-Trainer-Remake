@@ -4,15 +4,15 @@ Welcome to my Aim Trainer! A small remake of my first ever CS project from Grade
 
 ![GameMenu](https://imgur.com/GBNTHQU.png)
 
-## Stuffs used
-
-I used pygame to create the whole thing, and MSPaint/Pixlr for the assets.
-
-# Game Features
+## Game Features
 - Menu Screen
-- Options screen to change reticles
+- Options screen to change reticles (has a senjougahara reticle)
 - In-Game timer
 - Results screen which displays performance statistics
+- funny music
+
+## Stuffs used
+I used pygame to create the whole thing, and MSPaint/Pixlr for the assets.
 
 ## I want to play the game!
 
