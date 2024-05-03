@@ -43,7 +43,7 @@ def ingameLoop(screen):
     while running:
         currentTime = pygame.time.get_ticks()
         # give 60 seconds for game
-        timer = round((abs(currentTime - startTime - 5000) / 1000), 2)
+        timer = round((abs(currentTime - startTime - 60000) / 1000), 2)
 
         # display background and timer
         screen.blit(ingameBG, (0, 0))
@@ -68,7 +68,7 @@ def ingameLoop(screen):
 
 
         # if the timer is finished
-        if currentTime - startTime > 5000:
+        if currentTime - startTime > 60000:
             # call the results screen loop, if this returns true we restart the game
             if resultMain.resultLoop(screen, targetsHit, clickAmount):
                 pygame.mixer.music.load('music/ingamemusic.mp3')
