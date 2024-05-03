@@ -22,3 +22,8 @@ I used pygame to create the whole thing, and MSPaint/Pixlr for the assets.
 3. Run the 'gameLoop.py' file.
 
 4. HAVE FUN!
+
+
+
+# OPTIONS SCREEN
+![OPTIONS](https://i.imgur.com/nGIMa0b.png)
